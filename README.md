@@ -108,7 +108,7 @@ This space will grow with my learning journey, experiments, and future applicati
 
 <div align="center">
 
-### 💜 Keep Learning. Keep Building. Keep Evolving.
+###  Keep Learning. Keep Building. Keep Evolving.
 
 *"Great things are built one step at a time."*
 
