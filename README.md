@@ -64,15 +64,17 @@ I believe that becoming a great developer takes curiosity, consistency, and a wi
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dabllio0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=FFFFFF" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dabllio0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=FFFFFF" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dabllio0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dabllio0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF" />
 
 </div>
+
 
 ---
 
