@@ -33,7 +33,7 @@ I believe that becoming a great developer takes curiosity, consistency, and a wi
 
 ---
 
-## 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 <div align="center">
 
