@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-🇧🇷 **Brazil | Aspiring Software Developer**
+ **Brazil | Aspiring Software Developer**
 
 I'm a beginner developer building my foundation in **programming, artificial intelligence, and software development**.
 
@@ -49,7 +49,7 @@ I believe that becoming a great developer takes curiosity, consistency, and a wi
 
 ---
 
-## 🧠 Learning Journey
+##  Learning Journey
 
 ```text
 [01] Programming Fundamentals
@@ -65,20 +65,22 @@ I believe that becoming a great developer takes curiosity, consistency, and a wi
 ---
 
 
-## 📊 GitHub Statistics
+
+##  GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dabllio0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=FFFFFF" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Dabllio0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=FFFFFF" />
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dabllio0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dabllio0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF" />
 
 </div>
 
 
+
 ---
 
-## 🐍 Contribution Snake
+##   Contribution Snake
 
 <div align="center">
 
@@ -98,7 +100,7 @@ This space will grow with my learning journey, experiments, and future applicati
 
 ---
 
-## 🎯 Goals
+##   Goals
 
 - Strengthen my Java and OOP knowledge
 - Develop better problem-solving skills
